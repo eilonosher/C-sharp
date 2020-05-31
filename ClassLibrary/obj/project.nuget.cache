@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "f+lzBe9AI/p6IPUM2TuSVYZyDxr8ZK0RxPXe7sZEN48hzPoSi0l8sekKxIw82ttboAw8vUbWYL1TLAp6A6A8+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\C++\\ex2_update_30.5\\ClassLibrary\\ClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

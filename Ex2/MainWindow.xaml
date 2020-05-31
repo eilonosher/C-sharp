@@ -1,0 +1,35 @@
+﻿<Window x:Class="Ex2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ex2"
+        mc:Ignorable="d"
+        Title="Movies" Height="450" Width="800">
+    <Grid>
+        <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="Add">
+                <MenuItem Header="Actor.."  Click="actorClicked"/>
+                <MenuItem Header="Movie.." Click="movieClicked"/>
+                <MenuItem Header="Director.." Click="directorClicked" />
+            </MenuItem>
+            <MenuItem Header="Search">
+                <MenuItem Header="by director name" Click="byDirectorNameClicked"/>
+                <MenuItem Header="by actor name" Click="byActorNameClicked"/>
+                <MenuItem Header="by year" Click="byYearClicked"/>
+                <MenuItem Header="by movie name" Click="byMovieNameClicked"/>
+                <MenuItem Header="by IMDB score" Click="byIMDBClicked"/>
+                <MenuItem Header="by Rotten Tomatoes score" Click="byRTClicked"/>
+            </MenuItem>
+        </Menu>
+            <ListBox Name="listMovie" Margin="10" ItemsSource="{Binding Dict}" MouseDoubleClick="listMovie_MouseDoubleClick">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding Value}"/>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </DockPanel>
+    </Grid>
+</Window>

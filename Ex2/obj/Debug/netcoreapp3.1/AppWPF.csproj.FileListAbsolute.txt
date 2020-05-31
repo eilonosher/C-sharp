@@ -1,0 +1,95 @@
+C:\Users\USER\Desktop\C++\Ex2\Ex2\bin\Debug\netcoreapp3.1\AppWPF.exe
+C:\Users\USER\Desktop\C++\Ex2\Ex2\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\USER\Desktop\C++\Ex2\Ex2\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\USER\Desktop\C++\Ex2\Ex2\obj\Debug\netcoreapp3.1\AppWPF.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\C++\Ex2\Ex2\obj\Debug\netcoreapp3.1\Add_actor.g.cs
+C:\Users\USER\Desktop\C++\Ex2\Ex2\obj\Debug\netcoreapp3.1\Add_director.g.cs
+C:\Users\USER\Desktop\C++\Ex2\Ex2\obj\Debug\netcoreapp3.1\Add_movie.g.cs
+C:\Users\USER\Desktop\C++\Ex2\Ex2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\USER\Desktop\C++\Ex2\Ex2\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\USER\Desktop\C++\Ex2\Ex2\obj\Debug\netcoreapp3.1\AppWPF_MarkupCompile.cache
+C:\Users\USER\Desktop\C++\Ex2\Ex2\obj\Debug\netcoreapp3.1\AppWPF_MarkupCompile.lref
+C:\Users\USER\Desktop\C++\Ex2\Ex2\obj\Debug\netcoreapp3.1\Add_actor.baml
+C:\Users\USER\Desktop\C++\Ex2\Ex2\obj\Debug\netcoreapp3.1\Add_director.baml
+C:\Users\USER\Desktop\C++\Ex2\Ex2\obj\Debug\netcoreapp3.1\Add_movie.baml
+C:\Users\USER\Desktop\C++\Ex2\Ex2\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\USER\Desktop\C++\Ex2\Ex2\obj\Debug\netcoreapp3.1\AppWPF.g.resources
+C:\Users\USER\Desktop\C++\Ex2\Ex2\obj\Debug\netcoreapp3.1\AppWPF.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C++\Ex2\Ex2\obj\Debug\netcoreapp3.1\AppWPF.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C++\Ex2\Ex2\obj\Debug\netcoreapp3.1\AppWPF.AssemblyInfo.cs
+C:\Users\USER\Desktop\C++\Ex2\Ex2\obj\Debug\netcoreapp3.1\AppWPF.csproj.CopyComplete
+C:\Users\USER\Desktop\C++\Ex2\Ex2\obj\Debug\netcoreapp3.1\AppWPF.dll
+C:\Users\USER\Desktop\C++\Ex2\Ex2\obj\Debug\netcoreapp3.1\AppWPF.pdb
+C:\Users\USER\Desktop\C++\Ex2\Ex2\bin\Debug\netcoreapp3.1\AppWPF.deps.json
+C:\Users\USER\Desktop\C++\Ex2\Ex2\bin\Debug\netcoreapp3.1\AppWPF.runtimeconfig.json
+C:\Users\USER\Desktop\C++\Ex2\Ex2\bin\Debug\netcoreapp3.1\AppWPF.runtimeconfig.dev.json
+C:\Users\USER\Desktop\C++\Ex2\Ex2\bin\Debug\netcoreapp3.1\AppWPF.dll
+C:\Users\USER\Desktop\C++\Ex2\Ex2\bin\Debug\netcoreapp3.1\AppWPF.pdb
+C:\Users\USER\Desktop\C++\Ex2\Ex2\obj\Debug\netcoreapp3.1\AppWPF.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\C++\Ex2\Ex2\obj\Debug\netcoreapp3.1\AppWPF.genruntimeconfig.cache
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\Ex2\bin\Debug\netcoreapp3.1\AppWPF.exe
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\Ex2\bin\Debug\netcoreapp3.1\AppWPF.deps.json
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\Ex2\bin\Debug\netcoreapp3.1\AppWPF.runtimeconfig.json
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\Ex2\bin\Debug\netcoreapp3.1\AppWPF.runtimeconfig.dev.json
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\Ex2\bin\Debug\netcoreapp3.1\AppWPF.dll
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\Ex2\bin\Debug\netcoreapp3.1\AppWPF.pdb
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\Ex2\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\Ex2\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\Ex2\obj\Debug\netcoreapp3.1\AppWPF.csprojAssemblyReference.cache
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\Ex2\obj\Debug\netcoreapp3.1\AppWPF.csproj.ResolveComReference.cache
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\Ex2\obj\Debug\netcoreapp3.1\Add_actor.g.cs
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\Ex2\obj\Debug\netcoreapp3.1\Add_director.g.cs
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\Ex2\obj\Debug\netcoreapp3.1\Add_movie.g.cs
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\Ex2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\Ex2\obj\Debug\netcoreapp3.1\App.g.cs
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\Ex2\obj\Debug\netcoreapp3.1\AppWPF_MarkupCompile.cache
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\Ex2\obj\Debug\netcoreapp3.1\AppWPF_MarkupCompile.lref
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\Ex2\obj\Debug\netcoreapp3.1\Add_actor.baml
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\Ex2\obj\Debug\netcoreapp3.1\Add_director.baml
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\Ex2\obj\Debug\netcoreapp3.1\Add_movie.baml
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\Ex2\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\Ex2\obj\Debug\netcoreapp3.1\AppWPF.g.resources
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\Ex2\obj\Debug\netcoreapp3.1\AppWPF.csproj.CoreCompileInputs.cache
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\Ex2\obj\Debug\netcoreapp3.1\AppWPF.AssemblyInfoInputs.cache
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\Ex2\obj\Debug\netcoreapp3.1\AppWPF.AssemblyInfo.cs
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\Ex2\obj\Debug\netcoreapp3.1\AppWPF.csproj.CopyComplete
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\Ex2\obj\Debug\netcoreapp3.1\AppWPF.dll
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\Ex2\obj\Debug\netcoreapp3.1\AppWPF.pdb
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\Ex2\obj\Debug\netcoreapp3.1\AppWPF.genruntimeconfig.cache
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\Ex2\obj\Debug\netcoreapp3.1\Search_by_score.g.cs
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\Ex2\obj\Debug\netcoreapp3.1\Search_by_string.g.cs
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\Ex2\obj\Debug\netcoreapp3.1\Search_by_score.baml
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\Ex2\obj\Debug\netcoreapp3.1\Search_by_string.baml
+C:\Users\USER\Desktop\C++\ex2_update_30.5\Ex2\bin\Debug\netcoreapp3.1\AppWPF.exe
+C:\Users\USER\Desktop\C++\ex2_update_30.5\Ex2\bin\Debug\netcoreapp3.1\AppWPF.deps.json
+C:\Users\USER\Desktop\C++\ex2_update_30.5\Ex2\bin\Debug\netcoreapp3.1\AppWPF.runtimeconfig.json
+C:\Users\USER\Desktop\C++\ex2_update_30.5\Ex2\bin\Debug\netcoreapp3.1\AppWPF.runtimeconfig.dev.json
+C:\Users\USER\Desktop\C++\ex2_update_30.5\Ex2\bin\Debug\netcoreapp3.1\AppWPF.dll
+C:\Users\USER\Desktop\C++\ex2_update_30.5\Ex2\bin\Debug\netcoreapp3.1\AppWPF.pdb
+C:\Users\USER\Desktop\C++\ex2_update_30.5\Ex2\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\USER\Desktop\C++\ex2_update_30.5\Ex2\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\USER\Desktop\C++\ex2_update_30.5\Ex2\obj\Debug\netcoreapp3.1\AppWPF.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\C++\ex2_update_30.5\Ex2\obj\Debug\netcoreapp3.1\AppWPF.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\C++\ex2_update_30.5\Ex2\obj\Debug\netcoreapp3.1\Add_actor.g.cs
+C:\Users\USER\Desktop\C++\ex2_update_30.5\Ex2\obj\Debug\netcoreapp3.1\Add_director.g.cs
+C:\Users\USER\Desktop\C++\ex2_update_30.5\Ex2\obj\Debug\netcoreapp3.1\Add_movie.g.cs
+C:\Users\USER\Desktop\C++\ex2_update_30.5\Ex2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\USER\Desktop\C++\ex2_update_30.5\Ex2\obj\Debug\netcoreapp3.1\Search_by_score.g.cs
+C:\Users\USER\Desktop\C++\ex2_update_30.5\Ex2\obj\Debug\netcoreapp3.1\Search_by_string.g.cs
+C:\Users\USER\Desktop\C++\ex2_update_30.5\Ex2\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\USER\Desktop\C++\ex2_update_30.5\Ex2\obj\Debug\netcoreapp3.1\AppWPF_MarkupCompile.cache
+C:\Users\USER\Desktop\C++\ex2_update_30.5\Ex2\obj\Debug\netcoreapp3.1\AppWPF_MarkupCompile.lref
+C:\Users\USER\Desktop\C++\ex2_update_30.5\Ex2\obj\Debug\netcoreapp3.1\Add_actor.baml
+C:\Users\USER\Desktop\C++\ex2_update_30.5\Ex2\obj\Debug\netcoreapp3.1\Add_director.baml
+C:\Users\USER\Desktop\C++\ex2_update_30.5\Ex2\obj\Debug\netcoreapp3.1\Add_movie.baml
+C:\Users\USER\Desktop\C++\ex2_update_30.5\Ex2\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\USER\Desktop\C++\ex2_update_30.5\Ex2\obj\Debug\netcoreapp3.1\Search_by_score.baml
+C:\Users\USER\Desktop\C++\ex2_update_30.5\Ex2\obj\Debug\netcoreapp3.1\Search_by_string.baml
+C:\Users\USER\Desktop\C++\ex2_update_30.5\Ex2\obj\Debug\netcoreapp3.1\AppWPF.g.resources
+C:\Users\USER\Desktop\C++\ex2_update_30.5\Ex2\obj\Debug\netcoreapp3.1\AppWPF.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C++\ex2_update_30.5\Ex2\obj\Debug\netcoreapp3.1\AppWPF.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C++\ex2_update_30.5\Ex2\obj\Debug\netcoreapp3.1\AppWPF.AssemblyInfo.cs
+C:\Users\USER\Desktop\C++\ex2_update_30.5\Ex2\obj\Debug\netcoreapp3.1\AppWPF.csproj.CopyComplete
+C:\Users\USER\Desktop\C++\ex2_update_30.5\Ex2\obj\Debug\netcoreapp3.1\AppWPF.dll
+C:\Users\USER\Desktop\C++\ex2_update_30.5\Ex2\obj\Debug\netcoreapp3.1\AppWPF.pdb
+C:\Users\USER\Desktop\C++\ex2_update_30.5\Ex2\obj\Debug\netcoreapp3.1\AppWPF.genruntimeconfig.cache

@@ -1,0 +1,27 @@
+C:\Users\USER\Desktop\C++\Ex2\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.deps.json
+C:\Users\USER\Desktop\C++\Ex2\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\USER\Desktop\C++\Ex2\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.pdb
+C:\Users\USER\Desktop\C++\Ex2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\C++\Ex2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C++\Ex2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C++\Ex2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\USER\Desktop\C++\Ex2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\USER\Desktop\C++\Ex2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.pdb
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.deps.json
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.dll
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.pdb
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csprojAssemblyReference.cache
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfo.cs
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.dll
+C:\סמסטר א\שנה ג\2 - C#\Ex2\Ex2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.pdb
+C:\Users\USER\Desktop\C++\ex2_update_30.5\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.deps.json
+C:\Users\USER\Desktop\C++\ex2_update_30.5\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\USER\Desktop\C++\ex2_update_30.5\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.pdb
+C:\Users\USER\Desktop\C++\ex2_update_30.5\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\C++\ex2_update_30.5\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C++\ex2_update_30.5\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C++\ex2_update_30.5\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\USER\Desktop\C++\ex2_update_30.5\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\USER\Desktop\C++\ex2_update_30.5\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.pdb
